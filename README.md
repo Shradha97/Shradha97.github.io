@@ -1,2 +1,2 @@
-# Shradha97.github.io
+# My website
 Website
