@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Hello Everyone
 
 ## My Internship Projects
