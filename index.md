@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hello Everyone
+# Hello Everyone
 
 ## My Internship Projects
 * [**WaveGlow**](/Projects/WaveGlow.md)
