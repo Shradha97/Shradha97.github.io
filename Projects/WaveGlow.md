@@ -64,9 +64,13 @@ For a detailed understanding of the approach, please refer to the full [report](
 
 ## Necessary Factors for Offline Deployability
 | Factor | Explanation |
+
 | --- | --- |
+
 | Size of model| Application to be run must be of the size of MBs, max 80-90 MBs is preferable |
+
 | Number of layers in model vs Accuracy| The number of layers should be chosen such that the loss value converges for the trained model and the accuracy doesn't go very low respectively |
+
 | Accuracy vs Clarity of speech heard| Accuracy is an important factor in deciding whether the model can be released for user experience or not, but the quality of the audio output plays a more important role in deciding the usability of the model.|
 
 ## Output and Results
