@@ -25,4 +25,6 @@ As voice is the future, the world’s technology giants are clamoring for vital 
 ![TTS](https://user-images.githubusercontent.com/35024433/69430873-89e72280-0d5c-11ea-8ebe-682edf0568ff.png)
 
 
+![waveglow](https://user-images.githubusercontent.com/35024433/69430979-be5ade80-0d5c-11ea-8867-78cafb7261cf.png)
+
 
