@@ -82,7 +82,7 @@ The following table contains the models obtained after training the WaveGlow Cha
  | 350000 | |
  | 500000 | |
 
-To obtain the audio files, first download these models. Then follow the instructions in [this](https://github.com/Shradha97/chainer-WaveGlow) repository to install the prerequisites and run the command for generation.
+The codebase for this project can be found [here](https://github.com/Shradha97/chainer-WaveGlow). To obtain the audio files, first download these models. Then follow the instructions in the repository to install the prerequisites and run the command for generation.
 
 ## References
 1. [WaveGlow: A Flow-based Generative Network for Speech Synthesis by Ryan Prenger, Rafael Valle, Bryan Catanzaro](https://arxiv.org/pdf/1811.00002.pdf). 
