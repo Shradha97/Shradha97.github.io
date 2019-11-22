@@ -63,6 +63,7 @@ Now, it was important to redesign the model so that it could be deployed to low 
 For a detailed understanding of the approach, please refer to the full [report](WaveGlow_report.pdf).
 
 ## Necessary Factors for Offline Deployability
+
 | Factor | Explanation |
 | :----: | :----: |
 | Size of model | Application to be run must be of the size of MBs, max 80-90 MBs is preferable |
@@ -81,5 +82,14 @@ The following table contains the models obtained after training the WaveGlow Cha
  | 350000 | |
  | 500000 | |
 
+To obtain the audio files, first download these models. Then follow the instructions in [this](https://github.com/Shradha97/chainer-WaveGlow) repository to install the prerequisites and run the command for generation.
+
+## References
+1. [WaveGlow: A Flow-based Generative Network for Speech Synthesis by Ryan Prenger, Rafael Valle, Bryan Catanzaro](https://arxiv.org/pdf/1811.00002.pdf). 
+2. [ Glow: Generative Flow with Invertible 1x1 Convolutions by Diederik P. Kingma, Prafulla Dhariwal](https://arxiv.org/pdf/1807.03039.pdf).
+3. [WaveNet: A Generative Model for Raw Audio by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu](https://arxiv.org/abs/1609.03499).
+4. [Towards Understanding the Invertibility of Convolutional Neural Networks by Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee](https://arxiv.org/abs/1705.08664).
+5. [Introduction to Chainer: A Flexible Framework for Deep Learning, a seminar by Seiya Tokui](https://www.slideshare.net/beam2d/introduction-to-chainer-a-flexible-framework-for-deep-learning).
+6. [Glow: Generative Flow with Invertible 1x1 Convolutions lecture by D. Kingma and P.Dhariwal, OpenAI](https://www.youtube.com/watch?v=6OVH1i2BVAE).
 
 
