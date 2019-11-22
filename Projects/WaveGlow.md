@@ -63,7 +63,7 @@ Now, it was important to redesign the model so that it could be deployed to low 
 For a detailed understanding of the approach, please refer to the full [report](WaveGlow_report.pdf).
 
 ## Necessary Factors for Offline Deployability
-| Issue | Explanation |
+| Factor | Explanation |
 | --- | --- |
 | Size of model| Application to be run must be of the size of MBs, max 80-90 MBs is preferable |
 | Number of layers in model vs Accuracy| The number of layers should be chosen such that the loss value converges for the trained model and the accuracy doesn't go very low respectively |
