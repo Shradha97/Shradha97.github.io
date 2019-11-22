@@ -25,16 +25,17 @@ As voice is the future, the world’s technology giants are clamoring for vital 
 ## Text-to-Speech system (TTS)
 ![TTS](https://user-images.githubusercontent.com/35024433/69430873-89e72280-0d5c-11ea-8ebe-682edf0568ff.png)
 
-**Text to speech**, abbreviated as **TTS**, is a form of speech synthesis that converts text into spoken voice output. It consists of two units: **Natural Language Processing Unit (NLP)** and **Digital Signal Processing (DSP)** or **Synthesizer unit**. The DSP unit is also called the **vocoder** which converts speech features into audio. Our focus would be mainly on the vocoder component of the TTS.
+**Text to speech**, abbreviated as **TTS**, is a form of speech synthesis that converts text into spoken voice output. It consists of two units: **Natural Language Processing Unit (NLP)** and **Digital Signal Processing (DSP)** or **Synthesizer unit**. The DSP unit has a subunit called the **vocoder** which converts speech features into audio. Our focus was be mainly on the vocoder component of the TTS.
 
 ## WaveGlow
 ![waveglow](https://user-images.githubusercontent.com/35024433/69430979-be5ade80-0d5c-11ea-8867-78cafb7261cf.png)
 
-WaveGlow is essentially a vocoder developed by **NVIDIA**, which is a combination of the well known WaveNet and Glow systems. For more detailed understanding of WaveGlow, please refer to [this](https://arxiv.org/abs/1811.00002). 
+WaveGlow is essentially a vocoder developed by **NVIDIA**, which is a combination of the well known WaveNet and Glow systems.
+We used this WaveGlow model for the purpose of our research. For more detailed understanding of WaveGlow, please refer to [this](https://arxiv.org/abs/1811.00002). 
 
 ## Approach Flow
 ![approach](https://user-images.githubusercontent.com/35024433/69433463-a6398e00-0d61-11ea-8d1d-62da9b75e2c4.png)
-
+For a detailed understanding of the approach, please refer [here]().
 
 
 
