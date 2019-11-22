@@ -30,14 +30,14 @@ As voice is the future, the world’s technology giants are clamoring for vital 
 ## WaveGlow
 ![waveglow](https://user-images.githubusercontent.com/35024433/69430979-be5ade80-0d5c-11ea-8867-78cafb7261cf.png)
 
-WaveGlow is essentially a vocoder which was recently developed by **NVIDIA Corporation**, which is a combination of the well known WaveNet and Glow systems.
+WaveGlow is essentially a vocoder which was recently developed by **NVIDIA Corporation**, which is a combination of the well known [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) and [Glow](https://openai.com/blog/glow/) systems.
 We used this WaveGlow model for the purpose of our research. For more detailed understanding of WaveGlow, please refer to [this](https://arxiv.org/abs/1811.00002). 
 
 ## Approach Flow
 ![approach](https://user-images.githubusercontent.com/35024433/69433463-a6398e00-0d61-11ea-8d1d-62da9b75e2c4.png)
 
 ### Choosing the TTS Model
-As I mentioned above, for this project, we chose to work with the WaveGlow model. We chose this over other models like [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) and [Glow](https://openai.com/blog/glow/) because of its comparitively more promising results in the online TTS system, moreover it combines the most important components of both WaveNet and Glow into a single model thus making it more preferable.
+As I mentioned above, for this project, we chose to work with the WaveGlow model. We chose this over other models like WaveNet and Glow because of its comparitively more promising results in the online TTS system, moreover it combines the most important components of both WaveNet and Glow into a single model thus making it more preferable.
 
 ### Choosing the Framework and Datasets
 The original WaveGlow model was built in PyTorch. We decided to rebuild the model in **Tensorflow** and **Chainer** respectively because these frameworks are supported by wider variety of platforms. Our first aim was to build a model that could be deployed to **Raspberry Pi3**. We chose [Libri-Speech](https://keithito.com/LJ-Speech-Dataset/) dataset for the training purpose.
