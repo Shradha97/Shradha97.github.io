@@ -30,6 +30,9 @@ As voice is the future, the world’s technology giants are clamoring for vital 
 ## WaveGlow
 ![waveglow](https://user-images.githubusercontent.com/35024433/69430979-be5ade80-0d5c-11ea-8867-78cafb7261cf.png)
 
-WaveGlow is essentially a vocoder developed by **NVIDIA**, which is a combination of the well known WaveNet and Glow systems. For more detailed understanding of WaveGlow, please refer to this [paper](https://arxiv.org/abs/1811.00002). 
+WaveGlow is essentially a vocoder developed by **NVIDIA**, which is a combination of the well known WaveNet and Glow systems. For more detailed understanding of WaveGlow, please refer to [this](https://arxiv.org/abs/1811.00002). 
+
+## Approach Flow
+
 
 ![image7](https://user-images.githubusercontent.com/35024433/69431142-24dffc80-0d5d-11ea-856a-89f6962f7956.png)
