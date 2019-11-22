@@ -49,7 +49,7 @@ The original WaveGlow model was built in PyTorch. We decided to rebuild the mode
 
 ### Output and Results
 
-For a detailed understanding of the approach, please refer to the full [report](WaveGlow.md).
+For a detailed understanding of the approach, please refer to the full [report](WaveGlow_report.pdf).
 
 
 
