@@ -39,12 +39,17 @@ We used this WaveGlow model for the purpose of our research. For more detailed u
 ### Choosing the TTS Model
 As I mentioned above, for this project, we chose to work with the WaveGlow model. We chose this over other models like [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) and [Glow](https://openai.com/blog/glow/) because of its comparitively more promising results in the online TTS system, moreover it combines the most important components of both WaveNet and Glow into a single model thus making it more preferable.
 
-### Choosing the Framework
-The original WaveGlow model was built in PyTorch. We decided to rebuild the model in Tensorflow and Chainer respectively because these frsmeworks are supported by wider variety of platforms. Our first aim was to build a model that could be deployed to Raspberry Pi3.
+### Choosing the Framework and Datasets
+The original WaveGlow model was built in PyTorch. We decided to rebuild the model in **Tensorflow** and **Chainer** respectively because these frameworks are supported by wider variety of platforms. Our first aim was to build a model that could be deployed to **Raspberry Pi3**. We chose [Libri-Speech](https://keithito.com/LJ-Speech-Dataset/) dataset for the training purpose.
 
 * **WaveGlow-Tensorflow**
-  
+    For deployment purposes of Machine Learning models, Tensorflow is one of the most widely used frameworks. So, the first       choice for a different framework was Tensorflow.  Moreover, for deploying the model offline, TensorFlow Lite                   was the considered framework, hence, going for Tensorflow was the best choice.
+    The WaveGlow model was redesigned for the latest version of Tensorflow, Tensorflow Nightly-2.0. 
+    
+    But, after training this Tensorflow model, we found out that it was failing to converge for the GPU version. Hence, the       results obtained were inconsistent.
+    
 * **WaveGlow-Chainer**
+    In order to deal with the problem faced with the Tensorflow model, we had to switch to a new framework which would             be more stable and consistent. So, we moved on to the Chainer framework.
 
 ### Redesigning the Model for the Chosen Framework and Platform  
 
