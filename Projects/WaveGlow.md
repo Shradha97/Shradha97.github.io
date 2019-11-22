@@ -42,7 +42,8 @@ As I mentioned above, for this project, we chose to work with the WaveGlow model
 ### Choosing the Framework
 The original WaveGlow model was built in PyTorch. We decided to rebuild the model in Tensorflow and Chainer respectively.
 
-#### WaveGlow-Tensorflow
+* **WaveGlow-Tensorflow**
+* **WaveGlow-Chainer**
 
 ### Redesigning the Model for the Chosen Framework and Platform  
 
