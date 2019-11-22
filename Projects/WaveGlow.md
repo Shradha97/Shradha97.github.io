@@ -35,6 +35,12 @@ We used this WaveGlow model for the purpose of our research. For more detailed u
 
 ## Approach Flow
 ![approach](https://user-images.githubusercontent.com/35024433/69433463-a6398e00-0d61-11ea-8d1d-62da9b75e2c4.png)
+### Choosing the TTS Model
+As I mentioned above, for this project, we chose to work with the WaveGlow model. We chose this over other models like [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) and [Glow](https://openai.com/blog/glow/) because of its comparitively more promising results in the online TTS system, moreover it combines the most important components of both WaveNet and Glow into a single model thus making it more preferable.
+
+### Choosing the Framework
+
+
 For a detailed understanding of the approach, please refer to the full [report](/Projects/WaveGlow.md).
 
 
