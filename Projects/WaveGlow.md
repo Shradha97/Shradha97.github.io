@@ -71,7 +71,15 @@ For a detailed understanding of the approach, please refer to the full [report](
 
 ## Output and Results
 
+The following table contains the models obtained after training the WaveGlow Chainer model. Inference of these models will yield the required audio.
 
+ | Training Epochs | Model |
+ | :---: | :---:|
+ | 39000 | |
+ | 40000 | |
+ | 125000 | |
+ | 350000 | |
+ | 500000 | |
 
 
 
