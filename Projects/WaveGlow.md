@@ -35,7 +35,7 @@ We used this WaveGlow model for the purpose of our research. For more detailed u
 
 ## Approach Flow
 ![approach](https://user-images.githubusercontent.com/35024433/69433463-a6398e00-0d61-11ea-8d1d-62da9b75e2c4.png)
-For a detailed understanding of the approach, please refer [here]().
+For a detailed understanding of the approach, please refer to the full [report](/Projects/WaveGlow.md).
 
 
 
