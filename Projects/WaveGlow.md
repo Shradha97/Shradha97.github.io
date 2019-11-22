@@ -51,14 +51,20 @@ The original WaveGlow model was built in PyTorch. We decided to rebuild the mode
     
 * **WaveGlow-Chainer**
 
-    In order to deal with the problem faced with the Tensorflow model, we had to switch to a new framework which would             be more stable and consistent. So, we moved on to the Chainer framework.
+    In order to deal with the problem faced with the Tensorflow model, we had to switch to a new framework which would             be more stable and consistent. So, we moved on to the Chainer framework. One more reason for choosing Chainer was because of its excellent GPU data center performance. According to the reports, recently, Chainer became the world champion for GPU data center performance, beating even Tensorflow and can be run on multiple GPUs with very little effort.
+    
+   This Chainer model was consistent as compared to the previous Tensorflow model, but with a disadvantage, where TensorFlow takes just 3 - 4 days for training the model, Chainer takes almost 3 weeks to train the same model. 
 
 ### Redesigning the Model for the Chosen Framework and Platform  
+Now, it was important to redesign the model so that it could be deployed to low level devices like Raspberry Pi3. The most important factor to be taken into account to make a model suitable for such devices is the size factor. The original model was of the order of 300 GB, whereas the required memory limit was of 80-90 MB. The following algorithm was devised and followed in order to achieve the goal.
 
-### Output and Results
+![image7](https://user-images.githubusercontent.com/35024433/69431142-24dffc80-0d5d-11ea-856a-89f6962f7956.png)
 
 For a detailed understanding of the approach, please refer to the full [report](WaveGlow_report.pdf).
 
+### Output and Results
 
 
-![image7](https://user-images.githubusercontent.com/35024433/69431142-24dffc80-0d5d-11ea-856a-89f6962f7956.png)
+
+
+
