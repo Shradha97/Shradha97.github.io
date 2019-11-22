@@ -22,9 +22,13 @@ As voice is the future, the world’s technology giants are clamoring for vital 
 * try to build offline deployable TTS systems from already existing models and test their usability.
 * study the important factors observed that need to be taken into account while the offline deployment of these online models.
 
+## Text-to-Speech system (TTS)
 ![TTS](https://user-images.githubusercontent.com/35024433/69430873-89e72280-0d5c-11ea-8ebe-682edf0568ff.png)
 
+Text to speech, abbreviated as TTS, is a form of speech synthesis that converts text into spoken voice output. It consists of two units: Natural Language Processing Unit(NLP) and Digital Signal Processing(DSP) or Synthesizer unit. The DSP unit is also called the **vocoder** which converts speech features into audio. Our focus would be mainly on the vocoder component of the TTS.
 
+## WaveGlow
 ![waveglow](https://user-images.githubusercontent.com/35024433/69430979-be5ade80-0d5c-11ea-8867-78cafb7261cf.png)
+WaveGlow is essentially a vocoder developed by NVIDIA, which is a combination of the well known WaveNet and Glow systems.
 
 ![image7](https://user-images.githubusercontent.com/35024433/69431142-24dffc80-0d5d-11ea-856a-89f6962f7956.png)
