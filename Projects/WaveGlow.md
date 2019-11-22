@@ -17,8 +17,10 @@ Frankly speaking, I always see myself as a researcher, everything I do, think...
 
 It was a great pleasure to be a part of the Mihup team, it not just gave me a view of how research is done in a company but equally exposed me to the corporate world, I got a view of how systems are actually deployed to the market, specially, how machine learning is done and deployed in the market. Most importantly I could witness the theory studied in my courses at IIT being put to practical uses. When you get the opportunity can turn ur knowledge into something that's gonna benefit the world is one of best moments in your life time according to me, and...believe me, that was one of those moments. I would always be thankful to the team for introducing to the world of Speech Recognition and for the new experiences. 
 
-## **A Study on WaveGlow Text-to-Speech System for Offline Deployabililty**
+## A Study on WaveGlow Text-to-Speech System for Offline Deployabililty
 As voice is the future, the world’s technology giants are clamoring for vital market share by placing voice-enabled devices at the core of their strategy. Since a huge amount of data is required to achieve this feat and the system tends to be heavy memory-wise, most of these voice-enabled devices are deployed for online platforms. But online platforms leave customers vulnerable to privacy issues, bcoz of which we decided to focus on the possibility of deploying these models for different low memory platforms in an offline mode. This would broaden the boundaries of use cases for the concerned problem. Through this work, our aim was to:
 * try to build offline deployable TTS systems from already existing models and test their usability.
 * study the important factors observed that need to be taken into account while the offline deployment of these online models.
+
+
 
