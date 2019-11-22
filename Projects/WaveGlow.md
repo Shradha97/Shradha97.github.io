@@ -22,5 +22,7 @@ As voice is the future, the world’s technology giants are clamoring for vital 
 * try to build offline deployable TTS systems from already existing models and test their usability.
 * study the important factors observed that need to be taken into account while the offline deployment of these online models.
 
+![TTS](https://user-images.githubusercontent.com/35024433/69430873-89e72280-0d5c-11ea-8ebe-682edf0568ff.png)
+
 
 
