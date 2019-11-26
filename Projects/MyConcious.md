@@ -1,4 +1,4 @@
-### Your soul is saying all these to you. Listen to it by closing your eyes. You will get answer to all your problems...believe me!
+### **Your soul is saying all these to you. Listen to it by closing your eyes. You will get answer to all your problems...believe me!**
 
 * You can make your own mindset. 
 * You have got everything to become what you want to.
@@ -24,5 +24,5 @@
 * Do not let the situation show you that you are losing, that's what it is meant to do. If it shows you your loss, tell it that this loss has taken you 1 more step closer to your goal and that it couldn't put you down, instead the situation only pushed you closer to your goal.
 * If something is pulling you down, just smile back and put it in your heart that it never existed, because that smile and confidence of yours will slowly shatter the confidence of that problem and one day it will bow down to you and offer you the prize of your persistence in the form of your success. That 1 smile of yours can help you conquer the whole world, even your fear and your seemingly present problems.
 
-### YOU ARE YOUR DESTINY AND IF YOU DECIDE TO CHANGE IT, NO FORCE CAN STOP THAT FROM HAPPENING. YOU ARE THE DESIGNER OF YOUR OWN LUCK!
+### **YOU ARE YOUR DESTINY AND IF YOU DECIDE TO CHANGE IT, NO FORCE CAN STOP THAT FROM HAPPENING. YOU ARE THE DESIGNER OF YOUR OWN LUCK!**
 
