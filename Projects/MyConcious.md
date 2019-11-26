@@ -25,4 +25,4 @@
 * If something is pulling you down, just smile back and put it in your heart that it never existed, because that smile and confidence of yours will slowly shatter the confidence of that problem and one day it will bow down to you and offer you the prize of your persistence in the form of your success. That 1 smile of yours can help you conquer the whole owrld, even your fear and your seemingly present problems.
 
 ### YOU ARE YOUR DESTINY AND IF YOU DECIDE TO CHANGE IT, NO FORCE CAN STOP THAT FROM HAPPENING. YOU ARE THE DESIGNER OF YOUR OWN LUCK!
-*S@i*
+<div style="text-align: right"> *S@i* </div>
